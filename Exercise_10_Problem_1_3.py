@@ -152,5 +152,5 @@ print("National Azabu :"+str(azabu_sum))
 # - What was difficult?
 
 # YOUR ANSWER HERE
-
+#It was difficult from problem 2.
 # Well done!
